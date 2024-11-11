@@ -4,21 +4,21 @@ A ideia do jogo é ter uma dupla de cada lado, onde um time é o vermelho e o ou
 
 Equipamentos utilizados:
 
->Varinha
+**Varinha**
   Módulo Emissor Infravermelho KY-005
   LED Branco (pode utilizar a cor de sua preferencia)
   Botão
   Arduino Nano
   Bateria 9V
 
->Colete
+**Colete**
   Módulo Receptor Infravermelho KY-022
   3x LEDs da cor do time
   Buzzer
   ESP32
   Bateria 9V
 
->Tesouro
+**Tesouro**
   Servo 180
   Buzzer
   ESP32
